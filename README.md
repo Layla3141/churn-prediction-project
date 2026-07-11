@@ -69,3 +69,6 @@ Possible improvements include:
 - Testing additional machine learning models
 - Improving feature engineering
 - Tuning model parameters to increase performance
+
+## Decision tree model. 
+The model improved its accuracy from 78 per cent to 82 per cent.
